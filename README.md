@@ -43,6 +43,24 @@ HMI Programmer with good technical understanding and strong grasp over computer 
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-333333?style=for-the-badge)
 ![Clean Coding](https://img.shields.io/badge/Clean%20Coding-333333?style=for-the-badge)
 
+## 📄📜 Activity Summary
+<p align="center">
+  <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Subash-Gopal&theme=algolia&show_icons=true" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subash-Gopal&exclude_repo=Portfolio&langs_count=7&layout=compact&theme=algolia" />
+</p>
+
+![Recent Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Subash-Gopal&custom_title=Recent%20Contribution%20Graph&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
+
+<br/>
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+  </br>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Subash-Gopal}/count.svg" /></p> 
+<br>
+</div>
+
+
 ## 🤝  Let's Connect 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashgopal/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subashg07@gmail.com)
