@@ -15,6 +15,8 @@ HMI Programmer with good technical understanding and strong grasp over computer 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
 ### Libraries and Frameworks
 [![Scene Composer](https://img.shields.io/badge/CGI_Studio-%23E34F26.svg?style=for-the-badge&logo=cgi&logoColor=white)](https://cgistudio.at/hmi-design/)
 ### IDE
@@ -43,6 +45,8 @@ HMI Programmer with good technical understanding and strong grasp over computer 
 
 ## 🤝  Let's Connect 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashgopal/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subashg07@gmail.com)
+
 
 
 
